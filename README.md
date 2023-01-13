@@ -1,5 +1,4 @@
-# DataBase
-Full DataBase
+# OPEN-DataBase
 
 LICENSE
 
