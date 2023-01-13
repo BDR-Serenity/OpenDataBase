@@ -1,4 +1,4 @@
-# OPEN Data Base - #Serenity (ODP-SRNT)
+# OPEN Data Base - #Serenity (ODB-SRNT)
 
 LICENSE
 
